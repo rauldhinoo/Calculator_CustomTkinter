@@ -1,6 +1,10 @@
-# Visual Calculator (CustomTkinter)
+# Calculator (CustomTkinter)
 
 A simple desktop calculator built with Python and CustomTkinter.
+
+## Main Interface
+
+![Calculator Main Interface](./assets/docs/Calculator-Interface.png)
 
 ## Requirements
 - Python 3.10 or newer
@@ -13,7 +17,7 @@ python -m pip install -r requirements.txt
 
 ## Run
 ```bash
-python visual_calculator.py
+python main.py
 ```
 
 ## Features
